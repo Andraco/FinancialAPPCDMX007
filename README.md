@@ -4,12 +4,14 @@
 
 
 
-Objetivos del proyecto
+**Objetivos del proyecto**
+
 Realizar un testeo del prototipo  para asesorar a un rediseño a esta app financiera y brindarles una propuesta para ayudar a visualizar cómo debería funcionar dicha aplicación, buscar la manera de ofrecer los producto y servicios a los clientes y lograr un incremento en las descargas para tener más captación de clientes y lograr consolidar así como posicionar a esta marca financiera como la mejor opción para el ahorro .
 
-Hallazgos a partir de la entrevista realizada a 5 potenciales usuarios de app:
+**Hallazgos a partir de la entrevista realizada a 5 potenciales usuarios de app**
+
 Es fácil de usar, se les hace intuitiva pero se les dificulta la tarea de ahorrar ya que no entienden el botón o muchos no lo ubican por la posición
-La parte de datos a los jóvenes no les causa problema llenar el formulario mientras que a los jóvenes adultos o adultos les da desconfianza ingresar datos delicados 
+La parte de datos a los jóvenes no les causa problema llenar el formulario mientras que a los jóvenes adultos o adultos les da desconfianza git ingresar datos delicados 
 La mayoría usa dispositivos android 
 Piensan que es una extencion mas de su banco o proponer implementarla en su banco, no tienen idea que solo es una aplicación de fomento al ahorro
 
@@ -17,16 +19,20 @@ Piensan que es una extencion mas de su banco o proponer implementarla en su banc
 
 ## Hallazgos a partir de la data del cliente
 
-Hallazgos a partir de la data del cliente
+
 Formulario de registro cambiarlo
 Incentivar el ahorro
 El banco solo jinetea el dinero del cliente o trabaja el dinero 
 App construida en ios (cambiar a android o ambas )
 Entradas a la aplicación bastantes
  Sesiones activas pocas 
-Insights 
+
+**Insights** 
+
 Basados en los “pains” and “gains” 
-Pains
+
+**Pains**
+
 Registro de huella
 Foto de perfil/Inseguridad => Accesibilidad/Click
 $$ Ahorrado
@@ -34,7 +40,9 @@ Pagos y Transferencias
 Botón menú redondo
 Menú de perfil s/ información
 Botón crear cuenta (nombre y posición)
-Gains:
+
+**Gains**
+
 Fácil herramienta/ útiles
 Diseño /color
 Categorías/ gastos/ automático
@@ -56,7 +64,7 @@ Incrementar la usabilidad de esta app
 
 ### Heurísticas de usabilidad
 
-Se utilizó también las Heurísticas de usabilidad las cuales son:
+**Se utilizó también las Heurísticas de usabilidad las cuales son**
  
    -Visibilidad del estado del sistema:
 Mantener al usuario informado y brindarle una respuesta en el menor tiempo. 
@@ -92,13 +100,16 @@ De las heurísticas antes mencionadas se lograron aplicar :
  Un total de 9 heurísticas fatlatando 
 Visibilidad de estado del sistema
 
-Planteamiento de solución del problema
+##Planteamiento de solución del problema
+
 Modificar el registro
 Botón de ahorro
 Ampliar el mercado permitiendo las descargas en diferentes  dispositivos como android y no solo en ios 
 Implementar alertas en cuanto se realice un cobro
-Realizar distintas operaciones dentro de la aplicación
-Preguntas iniciales:
+Realizar distintas operaciones dentro de la 
+
+**Preguntas iniciales**
+
 ¿quién o qué puede impedir que el usuario utilice nuestro producto?.
 Si entras a la app, ¿entendemos  que el servicio es de “de Ahorro”?
 ¿entendemos la finalidad de la app?
@@ -106,8 +117,9 @@ Si entras a la app, ¿entendemos  que el servicio es de “de Ahorro”?
 ¿El usuario tiene la educación o cultura para ahorrar?
 ¿Se ahorra a futuro o solo por metas a corto plazo?
 
-Navegación con usuarios
-Insights 
+##Navegación con usuarios
+
+**Insights** 
 Basados en los “pains” and “gains” de 5 usuarios frecuentes en app´s financieras
 Me gustaría hacer transferencias en línea, así como un icono de contacto o ayuda en línea
 Me gustaría abono de saldo en tiempo aire para mi móvil
@@ -120,14 +132,18 @@ Me gustaria cambiar la contraseña cada tres meses
 Me gustaría que no ingresaran anuncios, algunos usuarios le tememos  a oprimir alguna opción que no requerimos
  
 Propuesta de prototipado 
-https://marvelapp.com/5ead30b/screen/55363132
-https://docs.google.com/presentation/d/1YOYPChg-mlIysNG46bz-temnA1P3EooAcdLw4WMe7FA/edit#slide=id.g560353badc_2_8
+[Primer prototipo](https://marvelapp.com/5ead30b/screen/55363132)
 
-Técnicas para resolución de problemas:
+[Primera presentación](https://docs.google.com/presentation/d/1YOYPChg-mlIysNG46bz-temnA1P3EooAcdLw4WMe7FA/edit#slide=id.g560353badc_2_8)
+
+
+##Técnicas para resolución de problemas
+
 De acuerdo a las entrevistas realizadas, se concluyó que los datos recabados eran pertinentes para continuar con el análisis y propuesta del prototipado. Por un lado, se entrevistó al cliente quien realizó la previa investigación llegando a una propuesta de simulación de un prototipado y en base a eso se hizo un “journey map experience” con cinco usuarias posteriormente se entrevistó a siete personas usuarias de app’s financieras.
 Para poder concluir si se realizara una propuesta de rediseño completamente o solo la modificación de algún tipo de flujo de esta, para poder tener una mayor captación de clientes nuevos y mantener a los que ya tienen, optimizando su app y ofreciendo nuevos y mejores productos para los usuarios en general
 
-Historias de usuario para solución de problemas: 
+##Historias de usuario para solución de problemas
+
 Yo como usuario quiero entender fácilmente la navegación del ahorro.
 Yo como usuario quiero tener asesoramiento personalizado dentro de la app
 Yo como usuario quiero realizar diferentes operaciones
@@ -135,31 +151,36 @@ Yo como usuario quiero diferentes tipos de descuento ya sea quincenal, mensual o
 Yo como usuario quiero alertas cuando realice una operación
 
 
-Técnica de los 5 porqués para la primera historia de usuario
+##Técnica de los 5 porqués para la primera historia de usuario
+
 Yo como usuario puedo no entender bien cuál es la finalidad de la app.
 ¿Por qué? por que visualizo mi historial como cualquier banco solo que me gusta mas esta por ser más descriptiva en mis gastos
 ¿Por qué? Por que el botón de ahorro no es  muy visible y claro.
 ¿Por qué? Por que piden mucha información delicada y da la impresión de otro tipo de funcionalidad
 ¿Por qué? Por que la parte gastos no sé a qué se refiere, no sé si es cuando puedes direccionar el pago de tarjetas o luz o agua o teléfono etc
 ¿Por qué? Por que no está disponible para android
-Plan de acción
+
+**Plan de acción**
+
 Modificar posicionamiento de un botón, cambiar el icono para que este sea intuitivo para el cliente, reducir el cuestionario (evitar solicitar datos delicados), colocar bien el botón de ahorro, así mismo cambiar por otra iconografía más instintiva, implementar un chat-bot y/o ayuda (en línea, telefónica “programación de llamada” y correo electrónico), así como poner un límite de saldo diario y diferentes tipos de descuentos destinado a su ahorro (mensual, quincenal. o semanal).
 La idea es motivar al cliente a incursionar al tema del ahorro por medio de metas cortas, por mencionar un par de ejemplos: para vacaciones o comprar algo que esté en su mente mostrándole el avance e incentivarlo a tener una meta más larga para una compra más grande y realizar este ciclo continuamente que al final se de cuenta de la importancia de ahorrar a futuro, el cual le beneficiará en metas u objetivos ya sea para su retiro o alguna emergencia, educandolo de una forma sutil donde el usuario sin darse cuenta se convierta en un ahorrador potencial.
 Posteriormente tener la posibilidad de incentivar al usuario  formando parte de una comunidad donde se reconozca la constancia por ser un buen ahorrador y estar en el top de los primeros lugares.
-Herramientas utilizadas
+
+###Herramientas utilizadas
+
 Benchmarking
 Miro: [Prototipo Navegable](https://realtimeboard.com/app/board/o9J_kxlvBUY=/)
 Marvel
 Drive: [Google Drive](https://docs.google.com/spreadsheets/d/1qo3hnonAI40pyBbfMc6P6FUEV3EaCDAB_zE3vpA7-II/edit#gid=0)
 
 
-Otras páginas consultadas
+##Otras páginas consultadas
 
 El benchmarking consiste en tomar "comparadores" o benchmarks a aquellos productos, servicios y procesos de trabajo que pertenezcan a organizaciones que evidencien las mejores prácticas sobre el área de interés, con el propósito de transferir el conocimiento de las mejores prácticas y su aplicación.
 Una prueba de rendimiento o comparativa (en inglés benchmark) es una técnica utilizada para medir el rendimiento de un sistema o uno de sus componentes.
 Actividades dentro del plan de acción
 
-RETOS DE DISEÑO
+##RETOS DE DISEÑO
 
 
 Resolviendo la necesidad del cliente junto con la necesidad  usuarios en este segundo sprint, se puede deducir que para poder lograr mas descargas y la usabilidad de esta app la solución sería ampliar esta descarga en android y no solo para ios ya que tener un aplicación para celulares en sólo un sistema operativo, elimina a una gran porción de la población.
@@ -169,7 +190,18 @@ android va en aumento tanto por sus precios accesibles en cuestión de móviles 
 Lo segundo es el nombre de la app ya que tus finanzas no es muy atractivo para el usuario y no se identifican con el.
 Posteriormente ya en la navegación es entendible, pero con áreas de oportunidad las cuales se trabajaran como el botón de ahorro que no logra su objetivo ya que da otro tipo de impresión , la obligación de la huella a un porcentaje no le parece funcional por diferentes tipos de escenarios como no tener una versión que sea compatible con el biométrico o que este se atore.
 En el perfil tener una opción de salida o cierre, así como en la parte de registro brindarle la opción de una contraseña registrándose con su correo y la confirmación de esta contraseña, dar la opción de crear el perfil en ese momento o más tarde, y en el menú del perfil reiterar los combos así como poner una sección de ayuda, configuración e incluir la opción de cerrar la cesión 
-De esta manera podremos realizar una app más inclusiva con el potencial de abarcar a más usuarios y llegar a la meta de poder llegar a esos usuarios jóvenes atrayendolos a la cultura del ahorro por medio de metas cortas
+De esta manera podremos realizar una app más inclusiva con el potencial de abarcar a más usuarios y llegar a la meta de poder llegar a esos usuarios jóvenes atrayendolos a la cultura del ahorro por medio de metas cortas.
+
+
+
+
+
+
+
+
+
+
+
 
 
 ### Fuentes
