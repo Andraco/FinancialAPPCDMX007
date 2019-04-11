@@ -1,6 +1,6 @@
-# App Financiera
+#App Financiera
 
-## Hallazgos a partir de la entrevista realizada a 5 potenciales usuarios de app:
+##Hallazgos a partir de la entrevista realizada a 5 potenciales usuarios de app:
 
 
 
@@ -17,7 +17,7 @@ Piensan que es una extencion mas de su banco o proponer implementarla en su banc
 
 
 
-## Hallazgos a partir de la data del cliente
+##Hallazgos a partir de la data del cliente
 
 
 Formulario de registro cambiarlo
@@ -62,7 +62,7 @@ Incrementar la usabilidad de esta app
 
 
 
-### Heurísticas de usabilidad
+###Heurísticas de usabilidad
 
 **Se utilizó también las Heurísticas de usabilidad las cuales son**
  
